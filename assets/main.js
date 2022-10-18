@@ -9,4 +9,4 @@ console.log(favouriteColor);
 
 const number = 88;
 
-document.getElementById("password-result").innerHTML = `your password is ${name}${lastName}${favouriteColor}${number}`
+document.getElementById("password-result").innerHTML = `your password is: ${name}${lastName}${favouriteColor}${number}`
